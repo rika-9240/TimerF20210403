@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TimerF20210403/1.0.0": {
+        "runtime": {
+          "TimerF20210403.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimerF20210403/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
